@@ -1,3 +1,4 @@
+/* RESET CHUNG */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -27,7 +28,7 @@ nav {
   backdrop-filter: blur(48px);
   border-radius: 16px;
   margin: 15px auto;
-  box-shadow: 0 4px 20px rgba(255, 125, 0, 0.2);
+  box-shadow: 0 4px 20px rgba(255, 193, 135, 0.073);
 
   display: flex;
   justify-content: center;
@@ -46,7 +47,8 @@ nav li a {
 }
 
 nav li a:hover {
-  background-color: #ff6a00;
+  background-color: #ffd7ad;
+  border-color: #ffae62;
   transform: translateY(-3px);
   box-shadow: 0 4px 12px rgba(255, 111, 0, 0.4);
 }
