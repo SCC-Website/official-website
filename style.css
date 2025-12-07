@@ -17,11 +17,15 @@ body {
 
 /* NAV BAR */
 nav {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+
   width: 100%;
   padding: 12px 20px;
   box-sizing: border-box;
   background: rgba(255, 140, 60, 0.4);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(48px);
   border-radius: 16px;
   margin: 15px auto;
   box-shadow: 0 4px 20px rgba(255, 125, 0, 0.2);
