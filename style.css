@@ -1,4 +1,3 @@
-/* RESET CHUNG */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -24,7 +23,7 @@ nav {
   width: 100%;
   padding: 12px 20px;
   box-sizing: border-box;
-  background: rgba(255, 140, 60, 0.4);
+  background: rgba(255, 106, 0, 0.674);
   backdrop-filter: blur(48px);
   border-radius: 16px;
   margin: 15px auto;
