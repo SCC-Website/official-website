@@ -25,6 +25,9 @@ nav {
   background: rgba(255, 106, 0, 0.674);
   backdrop-filter: blur(48px);
   border-radius: 16px;
+
+  border: 2px solid #d74400;
+
   margin: 15px auto;
   box-shadow: 0 4px 20px rgba(255, 193, 135, 0.073);
 
